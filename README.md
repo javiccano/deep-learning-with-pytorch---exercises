@@ -1,1 +1,1 @@
-# Deep-Learning-Tutorials-and-Exercises-(PyTorch)
+# Deep Learning with PyTorch - Tutorials and Excercises
